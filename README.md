@@ -1,6 +1,7 @@
 ## Hi there 👋
 
-## Languages
+## Languages or stacks
+# other things like docker / kubernetes
 [![Languages](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 
 
