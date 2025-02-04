@@ -1,6 +1,9 @@
 ## Hi there 👋
 
-[(https://skillicons.dev/icons?i=js,html,css,wasm)]
+## Languages
+[![Languages](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+
+
 
 <!--
 **HansHeidmann/HansHeidmann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
