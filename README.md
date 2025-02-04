@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+
 <!--
 **HansHeidmann/HansHeidmann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,4 +16,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=GitHub.com/Hans%20Heidmann&descAlign=91&rotate=0&fontAlign=33&fontAlignY=19&descAlignY=39&animation=fadeIn&strokeWidth=0&reversal=true
