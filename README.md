@@ -1,10 +1,10 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=header" width="100%">
 
 - Languages
--[![Languages](https://skillicons.dev/icons?i=swift, py, java, cpp, js, ts, cs, lua, bash)](https://skillicons.dev)
+-[![Languages][(https://skillicons.dev/icons?i=swift, py, java, cpp, js, ts, cs, lua, bash)](https://skillicons.dev)
 
 - Frameworks
--[![Languages](https://skillicons.dev/icons?i=react, nextjs, spring, tailwind)](https://skillicons.dev)
+-[![Languages](https://skillicons.dev/icons?i=react, nextjs, spring, selenium, tailwind)](https://skillicons.dev)
 
 Databases
 -[![Languages](https://skillicons.dev/icons?i=postgres, mysql, mongodb, supabase, firebase)](https://skillicons.dev) 
