@@ -16,7 +16,7 @@
 [![Embedded](https://skillicons.dev/icons?i=arduino,raspberrypi)](https://skillicons.dev)
 
 **Game Dev**
-[![GameDev](https://skillicons.dev/icons?i=unity,blender)](https://skillicons.dev)
+[![GameDev](https://skillicons.dev/icons?i=cs,js,lua,unity,blender)](https://skillicons.dev)
 
 **Hacking**
 [![Hacking](https://skillicons.dev/icons?i=linux,ubuntu,debian)](https://skillicons.dev)
