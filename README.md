@@ -1,11 +1,26 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=header" width="100%">
 
 - Languages
--[![Languages](https://skillicons.dev/icons?i=swift, python, java, cpp, js, ts, cs)](https://skillicons.dev)
--[![Languages](https://skillicons.dev/icons?i=xcode, docker, kubernetes, unity, blender, ableton)](https://skillicons.dev)
-- Tools
+-[![Languages](https://skillicons.dev/icons?i=swift, py, java, cpp, js, ts, cs, lua, bash)](https://skillicons.dev)
+
 - Frameworks
--
+-[![Languages](https://skillicons.dev/icons?i=react, nextjs, spring, tailwind)](https://skillicons.dev)
+
+Databases
+-[![Languages](https://skillicons.dev/icons?i=postgres, mysql, mongodb, supabase, firebase)](https://skillicons.dev) 
+
+Containerization and Orchestration
+-[![Languages](https://skillicons.dev/icons?i=kubernetes, docker)](https://skillicons.dev) 
+
+Microprocessors / Embedded
+-[![Languages](https://skillicons.dev/icons?i=arduino, raspberrypi)](https://skillicons.dev)
+
+Game Dev
+-[![Languages](https://skillicons.dev/icons?i=unity, blender, ableton)](https://skillicons.dev)
+
+Hacking
+-[![Languages](https://skillicons.dev/icons?i=kali, ubuntu, linux, postman, debian, )](https://skillicons.dev)
+
 
 Show aGithub official % graph of most used languages
 
