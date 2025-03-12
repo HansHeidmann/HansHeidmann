@@ -1,42 +1,27 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=header" width="100%">
 
-**Languages**
+# Hans Heidmann
+
+##**Languages**
 [![Languages](https://skillicons.dev/icons?i=swift,py,js,ts,java,cpp,cs,lua,bash)](https://skillicons.dev)
   
-**Frameworks**
+##**Frameworks**
 [![Frameworks](https://skillicons.dev/icons?i=react,next,spring,tailwind)](https://skillicons.dev)
 
-**Databases**
+##**Databases**
 [![Databases](https://skillicons.dev/icons?i=postgres,mysql,mongodb,firebase)](https://skillicons.dev) 
 
-**Containerization and Orchestration**
+##**Containerization and Orchestration**
 [![DevOps](https://skillicons.dev/icons?i=kubernetes,docker)](https://skillicons.dev) 
 
-**Microprocessors / Embedded**
+##**Microprocessors / Embedded**
 [![Embedded](https://skillicons.dev/icons?i=arduino,raspberrypi)](https://skillicons.dev)
 
-**Game Dev**
+##**Game Dev**
 [![GameDev](https://skillicons.dev/icons?i=cs,js,lua,unity,blender)](https://skillicons.dev)
 
-**Hacking**
+##**Hacking**
 [![Hacking](https://skillicons.dev/icons?i=linux,ubuntu,debian)](https://skillicons.dev)
-
-
-
-Show aGithub official % graph of most used languages
-
-**HansHeidmann/HansHeidmann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 
 
 ```stl
