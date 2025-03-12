@@ -1,7 +1,8 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=header" width="100%">
 
 - Languages
--[![Languages](https://skillicons.dev/icons?i=swift,python,cpp,cs,js,ts,)](https://skillicons.dev)
+-[![Languages](https://skillicons.dev/icons?i=swift, python, java, cpp, js, ts, cs)](https://skillicons.dev)
+-[![Languages](https://skillicons.dev/icons?i=xcode, docker, kubernetes, unity, blender, ableton)](https://skillicons.dev)
 - Tools
 - Frameworks
 -
