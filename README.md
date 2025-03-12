@@ -1,25 +1,25 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=header" width="100%">
+- **Languages**
+  [![Languages](https://skillicons.dev/icons?i=swift,python,java,cpp,js,ts,csharp,lua,bash)](https://skillicons.dev)
 
-- Languages
--[![Languages][(https://skillicons.dev/icons?i=swift, py, java, cpp, js, ts, cs, lua, bash)](https://skillicons.dev)
+- **Frameworks**
+  [![Frameworks](https://skillicons.dev/icons?i=react,next,spring,tailwind)](https://skillicons.dev)
 
-- Frameworks
--[![Languages](https://skillicons.dev/icons?i=react, nextjs, spring, selenium, tailwind)](https://skillicons.dev)
+- **Databases**
+  [![Databases](https://skillicons.dev/icons?i=postgres,mysql,mongodb,firebase)](https://skillicons.dev) 
 
-Databases
--[![Languages](https://skillicons.dev/icons?i=postgres, mysql, mongodb, supabase, firebase)](https://skillicons.dev) 
+- **Containerization and Orchestration**
+  [![DevOps](https://skillicons.dev/icons?i=kubernetes,docker)](https://skillicons.dev) 
 
-Containerization and Orchestration
--[![Languages](https://skillicons.dev/icons?i=kubernetes, docker)](https://skillicons.dev) 
+- **Microprocessors / Embedded**
+  [![Embedded](https://skillicons.dev/icons?i=arduino,raspberrypi)](https://skillicons.dev)
 
-Microprocessors / Embedded
--[![Languages](https://skillicons.dev/icons?i=arduino, raspberrypi)](https://skillicons.dev)
+- **Game Dev**
+  [![GameDev](https://skillicons.dev/icons?i=unity,blender)](https://skillicons.dev)
 
-Game Dev
--[![Languages](https://skillicons.dev/icons?i=unity, blender, ableton)](https://skillicons.dev)
+- **Hacking / OS**
+  [![Hacking](https://skillicons.dev/icons?i=linux,ubuntu,debian)](https://skillicons.dev)
 
-Hacking
--[![Languages](https://skillicons.dev/icons?i=kali, ubuntu, linux, postman, debian, )](https://skillicons.dev)
 
 
 Show aGithub official % graph of most used languages
