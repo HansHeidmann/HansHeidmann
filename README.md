@@ -1,7 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=header" width="100%">
 
 **Languages**
-[![Languages](https://skillicons.dev/icons?i=swift,py,java,cpp,js,ts,,cs,lua,bash)](https://skillicons.dev)
+[![Languages](https://skillicons.dev/icons?i=swift,py,js,ts,java,cpp,cs,lua,bash)](https://skillicons.dev)
   
 **Frameworks**
 [![Frameworks](https://skillicons.dev/icons?i=react,next,spring,tailwind)](https://skillicons.dev)
