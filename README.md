@@ -23,9 +23,6 @@ Here are some ideas to get you started:
 
 
 ```stl
-, Col: 37
- Command Line Arguments
-    
 solid H
   facet normal 0 0 0
     outer loop
