@@ -1,5 +1,4 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=header" width="100%">
-
 My name is Hans Heidmann and I am a Software Engineer currently based in San Diego, California
 
 I strive to improve our world by delivering innovative solutions that have never been seen before. 
