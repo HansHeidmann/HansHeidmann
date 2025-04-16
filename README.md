@@ -1,7 +1,5 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=header" width="100%">
-
 # Hans Heidmann
-
 
 ## **Languages**
 [![Languages](https://skillicons.dev/icons?i=cpp,swift,py,js,ts,java,cs,lua,c,bash)](https://skillicons.dev)
