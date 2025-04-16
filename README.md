@@ -15,12 +15,11 @@ Big supporter of random entertaining inventions that provide a good laugh!
 	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/http.png" alt="HTTP" title="HTTP"/></code>
 </div>
 
-<div align="center">
+<div align="left">
 	<h2>Cloud</h2>
 	<code>
 		<img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/aws.png"/>
 		<img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/gcp.png"/>
-		<img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/azure.png"/>
 	</code>
 </div>
 
