@@ -16,7 +16,7 @@ Big supporter of random entertaining inventions that provide a good laugh!
 
 
 
-<h1>Here is some of the tech I like to use:</h1>
+<h2>Here is some of the tech I like to use:</h2>
 
 <div align="left">
 	<h2>IDEs</h2>
