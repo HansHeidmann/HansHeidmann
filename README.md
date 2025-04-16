@@ -10,39 +10,74 @@ Outside of engineering/development, I enjoy traveling, hiking, mountain biking, 
 
 Big supporter of random entertaining inventions that provide a good laugh!
 
-**Some of the tech I like to use:**
+**Here is some of the tech I like to use:**
 
 <div align="left">
 	<h2>Cloud</h2>
 	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/aws.png"/></code>
 	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/gcp.png"/></code>
-	
 </div>
 
-## **Languages**
-[![Languages](https://skillicons.dev/icons?i=cpp,swift,py,js,ts,java,cs,lua,c,bash)](https://skillicons.dev)
-  
-## **Frameworks**
-[![Frameworks](https://skillicons.dev/icons?i=react,next,spring,tailwind)](https://skillicons.dev)
+<div align="left">
+	<h2>Languages</h2>
+	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/cpp.png"/></code>
+	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/swift.png"/></code>
+	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/python.png"/></code>
+	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/javascript.png"/></code>
+	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/typescript.png"/></code>
+	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/java.png"/></code>
+	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/csharp.png"/></code>
+	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/lua.png"/></code>
+	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/c.png"/></code>
+	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/bash.png"/></code>
+</div>
 
-## **Databases**
-[![Databases](https://skillicons.dev/icons?i=postgres,mysql,mongodb,firebase)](https://skillicons.dev) 
+<div align="left">
+	<h2>Frameworks</h2>
+	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/react.png"/></code>
+	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/next.png"/></code>
+	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/spring.png"/></code>
+	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/tailwind.png"/></code>
+</div>
 
-## **Containerization and Orchestration**
-[![DevOps](https://skillicons.dev/icons?i=kubernetes,docker)](https://skillicons.dev) 
+<div align="left">
+	<h2>Databases + BaaS</h2>
+	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/postgres.png"/></code>
+	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mysql.png"/></code>
+	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mongodb.png"/></code>
+	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/firebase.png"/></code>
+</div>
 
-## **Microprocessors / Embedded**
-[![Embedded](https://skillicons.dev/icons?i=arduino,raspberrypi)](https://skillicons.dev)
+<div align="left">
+	<h2>Containerization</h2>
+	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/kubernetes.png"/></code>
+	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/docker.png"/></code>
+</div>
 
-## **Game Dev**
-[![GameDev](https://skillicons.dev/icons?i=cs,js,lua,unity,blender)](https://skillicons.dev)
+<div align="left">
+	<h2>Hobby Microcontrollers / Embedded Linux</h2>
+	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/arduino.png"/></code>
+	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/raspberrypi.png"/></code>
+</div>
 
-## **OS**
-[![Hacking](https://skillicons.dev/icons?i=linux,ubuntu,debian,kali,apple,windows)](https://skillicons.dev)
+<div align="left">
+	<h2>Game Dev</h2>
+	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/unity.png"/></code>
+	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/blender.png"/></code>
+</div>
 
+<div align="left">
+	<h2>Operating Systems</h2>
+	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/linux.png"/></code>
+	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/ubuntu.png"/></code>
+	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/debian.png"/></code>
+	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/kali.png"/></code>
+	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mac.png"/></code>
+	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/windows.png"/></code>
+</div>
 
 ```stl
+placeholder
 ```
-
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
