@@ -100,7 +100,6 @@ Big supporter of random entertaining inventions that provide a good laugh!
 
 
 <div align="center">
-	<h2>(under construction, need to move into above sections)</h2>
 	
 	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/jira.png" alt="Jira" title="Jira"/></code>
  
