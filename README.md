@@ -7,7 +7,7 @@
 
 
 ## **Languages**
-[![Languages](https://skillicons.dev/icons?i=swift,py,js,ts,java,cpp,cs,lua,bash)](https://skillicons.dev)
+[![Languages](https://skillicons.dev/icons?i=cpp,swift,py,js,ts,java,c,cs,lua,bash)](https://skillicons.dev)
   
 ## **Frameworks**
 [![Frameworks](https://skillicons.dev/icons?i=react,next,spring,tailwind)](https://skillicons.dev)
