@@ -3,9 +3,6 @@
 # Hans Heidmann
 
 
-# *UNDER CONSTRUCTION* 
-
-
 ## **Languages**
 [![Languages](https://skillicons.dev/icons?i=cpp,swift,py,js,ts,java,cs,lua,c,bash)](https://skillicons.dev)
   
