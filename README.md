@@ -17,10 +17,9 @@ Big supporter of random entertaining inventions that provide a good laugh!
 
 <div align="left">
 	<h2>Cloud</h2>
-	<code>
-		<img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/aws.png"/>
-		<img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/gcp.png"/>
-	</code>
+	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/aws.png"/></code>
+	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/gcp.png"/></code>
+	
 </div>
 
 ## **Languages**
