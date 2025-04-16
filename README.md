@@ -1,7 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=header" width="100%">
 
-<h1>Hello!</h1>
-My name is Hans Heidmann and I am a Software Engineer currently based in San Diego, California
+<b>My name is Hans Heidmann and I am a Software Engineer currently based in San Diego, California</b>
 
 I strive to improve our world by delivering innovative solutions that have never been seen before. 
 My passion lies in designing and programming embedded systems for robotics, fitness technology, medical devices, IoT stuff, etc. 
