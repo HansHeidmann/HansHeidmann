@@ -1,6 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=header" width="100%">
 
-
+<h1>Hello!</h1>
 My name is Hans Heidmann and I am a Software Engineer currently based in San Diego, California
 
 I strive to improve our world by delivering innovative solutions that have never been seen before. 
@@ -19,7 +19,7 @@ Big supporter of random entertaining inventions that provide a good laugh!
 <h2>Here is some of the tech I like to use:</h2>
 
 <div align="left">
-	<h2>IDEs</h2>
+	<h3>IDEs</h3>
 	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/visual_studio_code.png" alt="Visual Studio Code" title="Visual Studio Code"/></code>
 	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/xcode.png" alt="Xcode" title="Xcode"/></code>
 	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/android_studio.png" alt="Android Studio" title="Android Studio"/></code>
@@ -27,7 +27,7 @@ Big supporter of random entertaining inventions that provide a good laugh!
 </div>
 
 <div align="left">
-	<h2>Languages</h2>
+	<h3>Languages</h3>
 	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/swift.png"/></code>
 	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/python.png"/></code>
 	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/c++.png"/></code>
@@ -43,7 +43,7 @@ Big supporter of random entertaining inventions that provide a good laugh!
 </div>
 
 <div align="left">
-	<h2>Frameworks</h2>
+	<h3>Frameworks</h3>
 	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/react.png"/></code>
 	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/next_js.png"/></code>
 	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/tailwind_css.png"/></code>
@@ -61,7 +61,7 @@ Big supporter of random entertaining inventions that provide a good laugh!
 </div>
 
 <div align="left">
-	<h2>Databases, BaaS, etc</h2>
+	<h3>Databases, BaaS, etc</h3>
 	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/postgresql.png"/></code>
 	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mysql.png"/></code>
 	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mongodb.png"/></code>
@@ -75,7 +75,7 @@ Big supporter of random entertaining inventions that provide a good laugh!
 </div>
 
 <div align="left">
-	<h2>Cloud</h2>
+	<h3>Cloud</h3>
 	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/aws.png"/></code>
 	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/gcp.png"/></code>
 	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/microsoft_azure.png" alt="Microsoft Azure" title="Microsoft Azure"/></code>
@@ -83,13 +83,13 @@ Big supporter of random entertaining inventions that provide a good laugh!
 </div>
 
 <div align="left">
-	<h2>Containerization</h2>
+	<h3>Containerization</h3>
 	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/kubernetes.png"/></code>
 	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/docker.png"/></code>
 </div>
 
 <div align="left">
-	<h2>Microcontrollers / Embedded Linux</h2>
+	<h3>Microcontrollers / Embedded Linux</h3>
 	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/stm.png"/></code>
 	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/atmel.png"/></code>
 	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/arm.png"/></code>
@@ -98,7 +98,7 @@ Big supporter of random entertaining inventions that provide a good laugh!
 </div>
 
 <div align="left">
-	<h2>Operating Systems</h2>
+	<h3>Operating Systems</h3>
 	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/linux.png"/></code>
 	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/macos.png"/></code>
 	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/windows.png"/></code>
@@ -110,7 +110,7 @@ Big supporter of random entertaining inventions that provide a good laugh!
 </div>
 
 <div align="left">
-	<h2>Other Tools</h2>
+	<h3>Other Tools</h3>
 	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/postman.png"/></code>
 	<code><img width="50" src="https://portswigger.net/images/logos/burp-suite-professional.svg"/></code>
 	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/jira.png" alt="Jira" title="Jira"/></code>
