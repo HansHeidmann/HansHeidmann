@@ -9,6 +9,11 @@
       <div>[![Cloud](https://skillicons.dev/icons?i=aws,gcp,azure)](https://skillicons.dev)</div>
     </td>
   </tr>
+  <tr>
+    <td>
+      [![Languages](https://skillicons.dev/icons?i=cpp,swift,py,js,ts,java,cs,lua,c,bash)](https://skillicons.dev)
+    </td>
+  </tr>
 </table>
 
 ## **Languages**
