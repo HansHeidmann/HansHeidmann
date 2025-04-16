@@ -10,7 +10,7 @@ Outside of engineering/development, I enjoy traveling, hiking, mountain biking, 
 
 Big supporter of random entertaining inventions that provide a good laugh!
 
-## Some of the tech I like to use:
+**Some of the tech I like to use:**
 
 <div align="left">
 	<h2>Cloud</h2>
