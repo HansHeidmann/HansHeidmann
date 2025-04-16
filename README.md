@@ -25,7 +25,7 @@
 [![GameDev](https://skillicons.dev/icons?i=cs,js,lua,unity,blender)](https://skillicons.dev)
 
 ##**OS**
-[![Hacking](https://skillicons.dev/icons?i=linux,ubuntu,debian,kali,macintosh,windows)](https://skillicons.dev)
+[![Hacking](https://skillicons.dev/icons?i=linux,ubuntu,debian,kali,apple,windows)](https://skillicons.dev)
 
 
 ```stl
