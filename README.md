@@ -2,16 +2,14 @@
 
 # Hans Heidmann
 
+<div align="center">
+	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/http.png" alt="HTTP" title="HTTP"/></code>
+</div>
 
 <table>
   <tr>
     <td>
       <div>[![Cloud](https://skillicons.dev/icons?i=aws,gcp,azure)](https://skillicons.dev)</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      [![Languages](https://skillicons.dev/icons?i=cpp,swift,py,js,ts,java,cs,lua,c,bash)](https://skillicons.dev)
     </td>
   </tr>
 </table>
