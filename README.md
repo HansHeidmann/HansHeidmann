@@ -10,10 +10,7 @@ Outside of engineering/development, I enjoy traveling, hiking, mountain biking, 
 
 Big supporter of random entertaining inventions that provide a good laugh!
 
-
-<div align="center">
-	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/http.png" alt="HTTP" title="HTTP"/></code>
-</div>
+## Some of the tech I like to use:
 
 <div align="left">
 	<h2>Cloud</h2>
