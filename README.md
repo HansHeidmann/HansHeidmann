@@ -12,7 +12,13 @@ Big supporter of random entertaining inventions that provide a good laugh!
 
 **Here is some of the tech I like to use:**
 
-
+<div align="left">
+	<h2>IDEs</h2>
+	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/vscode.png"/></code>
+	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/xcode.png"/></code>
+	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/androidstudio.png"/></code>
+	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/STM32thing.png"/></code>
+</div>
 
 <div align="left">
 	<h2>Languages</h2>
