@@ -4,7 +4,7 @@ My name is Hans Heidmann and I am a Software Engineer currently based in San Die
 
 I strive to improve our world by delivering innovative solutions that have never been seen before. 
 My passion lies in designing and programming embedded systems for robotics, fitness technology, medical devices, IoT stuff, etc. 
-I'm also a big fan of getting lost in digital art projects such as frontend development when I have the luxury of free time.
+I'm also a big fan of getting lost in frontend and game development projects when I have the luxury of free time.
 
 Outside of engineering/development, I enjoy traveling, hiking, mountain biking, skate/surf/snow, fishing, playing golf, running, and playing guitar + producing all kinds of music (mostly electronic) in Ableton/ProTools.
 
