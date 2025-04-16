@@ -80,7 +80,7 @@ Big supporter of random entertaining inventions that provide a good laugh!
 <div align="left">
 	<h2>Other Tools</h2>
 	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/postman.png"/></code>
-	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/burpsuite.png"/></code>
+	<code><img width="50" src="https://portswigger.net/images/logos/burp-suite-professional.svg"/></code>
 </div>
 
 
