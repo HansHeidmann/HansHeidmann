@@ -1,5 +1,3 @@
-<img width="100%" src="https://github.com/HansHeidmann/HansHeidmann/blob/main/micropins2.jpg"/>
-<img width="100%" src="https://github.com/HansHeidmann/HansHeidmann/blob/main/test.jpg"/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=header" width="100%">
 
