@@ -8,7 +8,7 @@
 
 <br>
 <div align="left">
-	<b>Here is some of the tech I find myself using:</b>
+	<p>Here is some of the tech I find myself using:</p>
 </div>
 
 <div align="left">
