@@ -12,9 +12,10 @@
 			<p>Away from the screen, I enjoy traveling, surf/skate/snow, playing golf, pickleball, fishing, hiking, mountain biking, trail running, hiking, and playing guitar + producing all kinds of music (mostly electronic) in Ableton/ProTools.</p>
 			<p>Big supporter of random entertaining inventions that provide a good laugh!</p>
 		</td>
-		<td>
-			<img height="200" style="width: auto;" src="https://github.com/HansHeidmann/HansHeidmann/blob/main/CU_Boulder_Engineering_Alumni.png?raw=true"/>
-		</td>
+		<td style="max-width: 120px; overflow: hidden;">
+  <img height="200" style="width: auto; max-width: 100%;" src="https://github.com/HansHeidmann/HansHeidmann/blob/main/CU_Boulder_Engineering_Alumni.png?raw=true"/>
+</td>
+
 	</tr>
 </table>
 
