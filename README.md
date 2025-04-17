@@ -1,7 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=header" width="100%">
 
 
-<div style="display: flex; align-items: flex-start; gap: 20px; max-width: 1000px;">
+<div style="display: flex; flex: flex-row; align-items: flex-start; gap: 20px; max-width: 1000px;">
   <div style="flex: flex-row;">
     <b>About Me</b>
     <p>
