@@ -8,10 +8,10 @@ Away from the screen, I enjoy traveling, surf/skate/snow, playing golf, pickleba
 Big supporter of random entertaining inventions that provide a good laugh!
 </div>
 
-
-| text | <img width="200" height="auto" src="https://github.com/HansHeidmann/HansHeidmann/blob/main/CU_Boulder_Engineering_Alumni.png?raw=true"/>
-| text |
-| text |
+|------|-|
+| text | <img width="200" height="auto" src="https://github.com/HansHeidmann/HansHeidmann/blob/main/CU_Boulder_Engineering_Alumni.png?raw=true"/> |
+| text | |
+| text | |
 <div align="center">
 	<a>
 		<img width="200" height="auto" src="https://github.com/HansHeidmann/HansHeidmann/blob/main/CU_Boulder_Engineering_Alumni.png?raw=true"/>
