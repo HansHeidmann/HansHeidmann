@@ -13,9 +13,8 @@
 			<p>Big supporter of random entertaining inventions that provide a good laugh!</p>
 		</td>
 		<td style="border: none; padding: 0;">
-			<td style="border: none; padding: 0;">
 				<img height="200" style="width: auto;" src="https://github.com/HansHeidmann/HansHeidmann/blob/main/CU_Boulder_Engineering_Alumni.png?raw=true"/>
-			</td>
+		
 
 		</td>
 	</tr>
