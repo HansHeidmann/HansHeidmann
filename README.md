@@ -1,23 +1,31 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=header" width="100%">
 
 
-<table>
-	<tr>
-		<td>
-			<b>About Me</b>
-			<p>
-				My name is Hans Heidmann and I am a Software Engineer currently based in San Diego, California.
-			</p>
-			<p>I strive to improve our world by delivering never-before-seen innovative solutions. My passion lies in designing and programming embedded systems for robotics, fitness technology, medical devices, IoT thingamabobs, etc. I'm also a big fan of getting lost in frontend and game development projects when I have the luxury of free time.</p>
-			<p>Away from the screen, I enjoy traveling, surf/skate/snow, playing golf, pickleball, fishing, hiking, mountain biking, trail running, hiking, and playing guitar + producing all kinds of music (mostly electronic) in Ableton/ProTools.</p>
-			<p>Big supporter of random entertaining inventions that provide a good laugh!</p>
-		</td>
-		<td style="max-width: 120px; overflow: hidden;">
-  <img height="200" style="width: auto; max-width: 100%;" src="https://github.com/HansHeidmann/HansHeidmann/blob/main/CU_Boulder_Engineering_Alumni.png?raw=true"/>
-</td>
+<div style="display: flex; align-items: flex-start; gap: 20px; max-width: 1000px;">
+  <div style="flex: 1;">
+    <b>About Me</b>
+    <p>
+      My name is Hans Heidmann, and I am a Software Engineer currently based in San Diego, California.
+    </p>
+    <p>
+      I strive to improve our world by delivering never-before-seen innovative solutions. My passion lies in designing and programming embedded systems for robotics, fitness technology, medical devices, IoT thingamabobs, etc. I'm also a big fan of getting lost in frontend and game development projects when I have the luxury of free time.
+    </p>
+    <p>
+      Away from the screen, I enjoy traveling, surf/skate/snow, playing golf, pickleball, fishing, hiking, mountain biking, trail running, hiking, and playing guitar + producing all kinds of music (mostly electronic) in Ableton/ProTools.
+    </p>
+    <p>
+      Big supporter of random entertaining inventions that provide a good laugh!
+    </p>
+  </div>
 
-	</tr>
-</table>
+  <div style="flex-shrink: 0; max-width: 120px; overflow: hidden;">
+    <img
+      height="200"
+      style="width: auto; max-width: 100%; display: block;"
+      src="https://github.com/HansHeidmann/HansHeidmann/blob/main/CU_Boulder_Engineering_Alumni.png?raw=true"
+    />
+  </div>
+</div>
 
 
 
