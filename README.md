@@ -9,9 +9,6 @@
 
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=header" width="100%">
-
-<b>Here is some of the tech I like to use:</b>
-
 <div align="left">
 	<h3>IDEs</h3>
 	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/visual_studio_code.png" alt="Visual Studio Code" title="Visual Studio Code"/></code>
