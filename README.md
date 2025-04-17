@@ -2,17 +2,18 @@
 
 <table>
 <tr>
-<td>
-<b>About Me</b>
-My name is Hans Heidmann and I am a Software Engineer currently based in San Diego, California.
-I strive to improve our world by delivering never-before-seen innovative solutions. My passion lies in designing and programming embedded systems for robotics, fitness technology, medical devices, IoT thingamabobs, etc. I'm also a big fan of getting lost in frontend and game development projects when I have the luxury of free time.
-Away from the screen, I enjoy traveling, surf/skate/snow, playing golf, pickleball, fishing, hiking, mountain biking, trail running, hiking, and playing guitar + producing all kinds of music (mostly electronic) in Ableton/ProTools.
-Big supporter of random entertaining inventions that provide a good laugh!
-</td>
-<td>
-	<img width="200" height="auto" src="https://github.com/HansHeidmann/HansHeidmann/blob/main/CU_Boulder_Engineering_Alumni.png?raw=true"/>
-</td>
+	<td>
+	<b>About Me</b>
+	My name is Hans Heidmann and I am a Software Engineer currently based in San Diego, California.
+	I strive to improve our world by delivering never-before-seen innovative solutions. My passion lies in designing and programming embedded systems for robotics, fitness technology, medical devices, IoT thingamabobs, etc. I'm also a big fan of getting lost in frontend and game development projects when I have the luxury of free time.
+	Away from the screen, I enjoy traveling, surf/skate/snow, playing golf, pickleball, fishing, hiking, mountain biking, trail running, hiking, and playing guitar + producing all kinds of music (mostly electronic) in Ableton/ProTools.
+	Big supporter of random entertaining inventions that provide a good laugh!
+	</td>
+	<td>
+		<img width="200" height="auto" src="https://github.com/HansHeidmann/HansHeidmann/blob/main/CU_Boulder_Engineering_Alumni.png?raw=true"/>
+	</td>
 </tr>
+</table>
 
 
 
