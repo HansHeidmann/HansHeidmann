@@ -7,9 +7,13 @@ I strive to improve our world by delivering never-before-seen innovative solutio
 Away from the screen, I enjoy traveling, surf/skate/snow, playing golf, pickleball, fishing, hiking, mountain biking, trail running, hiking, and playing guitar + producing all kinds of music (mostly electronic) in Ableton/ProTools.
 Big supporter of random entertaining inventions that provide a good laugh!
 </div>
+<a>
+	<img height="200" width="auto" src="https://github.com/HansHeidmann/HansHeidmann/blob/main/CU_Boulder_Engineering_Alumni.png?raw=true"/>
+</a>
+<a>
+	<img height="200"  src="https://github.com/HansHeidmann/HansHeidmann/blob/main/CU_Boulder_Engineering_Alumni.png?raw=true"/> 
+</a>
 
-<img height="200" width="auto" src="https://github.com/HansHeidmann/HansHeidmann/blob/main/CU_Boulder_Engineering_Alumni.png?raw=true"/>
-<img height="200"  src="https://github.com/HansHeidmann/HansHeidmann/blob/main/CU_Boulder_Engineering_Alumni.png?raw=true"/>
 
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
