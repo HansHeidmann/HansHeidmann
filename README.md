@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/HansHeidmann/HansHeidmann/refs/heads/main/github_header.jpg" width="100%">
+<img src="https://raw.githubusercontent.com/HansHeidmann/HansHeidmann/refs/heads/main/github_header.png" width="100%">
 
 <p><b>About Me</b></p>
 <p>My name is Hans Heidmann and I am a Software Engineer currently based in San Diego, California.</p>
