@@ -14,7 +14,7 @@ I'm also a big fan of getting lost in frontend and game development projects whe
 <p>Big supporter of random entertaining inventions that provide a good laugh!</p>
 
 
-<img width="100" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXY1ZGZ6ZXZoYno5enVuaXFmZ3NrbnFmM3g3aXhiYWs1b3B1cTlicCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/0EuzuldL6K3iJW8lFO/giphy.gif"/>
+<img width="170" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXY1ZGZ6ZXZoYno5enVuaXFmZ3NrbnFmM3g3aXhiYWs1b3B1cTlicCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/0EuzuldL6K3iJW8lFO/giphy.gif"/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
 
