@@ -9,7 +9,7 @@ My passion lies in designing and programming embedded systems for robotics, fitn
 I'm also a big fan of getting lost in frontend and game development projects when I have the luxury of free time.
 </p>
 
-<p>Outside of engineering/development, I enjoy traveling, surf/skate/snow, playing golf, pickleball, fishing, hiking, mountain biking, trail running, hiking, and playing guitar + producing all kinds of music (mostly electronic) in Ableton/ProTools.</p>
+<p>Away from the screen, I enjoy traveling, surf/skate/snow, playing golf, pickleball, fishing, hiking, mountain biking, trail running, hiking, and playing guitar + producing all kinds of music (mostly electronic) in Ableton/ProTools.</p>
 
 <p>Big supporter of random entertaining inventions that provide a good laugh!</p>
 
