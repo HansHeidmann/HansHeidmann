@@ -3,14 +3,15 @@
 <b>About me</b>
 <p>My name is Hans Heidmann and I am a Software Engineer currently based in San Diego, California.</p>
 
+<p>
 I strive to improve our world by delivering never-before-seen innovative solutions. 
-My passion lies in designing and programming embedded systems for robotics, fitness technology, medical devices, IoT stuff, etc. 
+My passion lies in designing and programming embedded systems for robotics, fitness technology, medical devices, IoT thingamabobs, etc. 
 I'm also a big fan of getting lost in frontend and game development projects when I have the luxury of free time.
+</p>
 
-Outside of engineering/development, I enjoy traveling, hiking, mountain biking, skate/surf/snow, fishing, playing golf, running, and playing guitar + producing all kinds of music (mostly electronic) in Ableton/ProTools.
+<p>Outside of engineering/development, I enjoy traveling, hiking, mountain biking, skate/surf/snow, fishing, playing golf, running, and playing guitar + producing all kinds of music (mostly electronic) in Ableton/ProTools.</p>
 
-Big supporter of random entertaining inventions that provide a good laugh!
-
+<p>Big supporter of random entertaining inventions that provide a good laugh!</p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
 
