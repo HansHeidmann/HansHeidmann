@@ -88,7 +88,7 @@
 	<h3>Microcontrollers / Embedded Linux</h3>
 	<code><img width="50" src="https://wiki.stmicroelectronics.cn/stm32mcu/nsfr_img_auth.php/0/04/Package_MCU_blue.png"/></code>
 	<code><img width="50" src="https://avatars.githubusercontent.com/u/95409777?s=200&v=4"/></code>
-	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/arm.png"/></code>
+	<code><img width="50" src="https://icons.iconarchive.com/icons/chrisbanks2/cold-fusion-hd/128/cpu-ARM-icon.png"/></code>
 	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/arduino.png"/></code>
 	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/raspberry_pi.png"/></code>
 </div>
