@@ -1,5 +1,4 @@
 <img src="https://raw.githubusercontent.com/HansHeidmann/HansHeidmann/refs/heads/main/github_header.jpg" width="100%">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=header" width="100%">
 
 <p><b>About Me</b></p>
 <p>My name is Hans Heidmann and I am a Software Engineer currently based in San Diego, California.</p>
@@ -7,8 +6,9 @@
 <p>Away from the screen, I enjoy traveling, surf/skate/snow, playing golf, pickleball, fishing, hiking, mountain biking, trail running, hiking, and playing guitar + producing all kinds of music (mostly electronic) in Ableton/ProTools.</p>
 <p>Big supporter of random entertaining inventions that provide a good laugh!</p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
 
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=header" width="100%">
 
 <h2>Here is some of the tech I like to use:</h2>
 
@@ -109,3 +109,5 @@
 	<code><img width="50" src="https://portswigger.net/images/logos/burp-suite-professional.svg"/></code>
 	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/jira.png" alt="Jira" title="Jira"/></code>
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
