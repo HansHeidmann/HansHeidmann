@@ -1,6 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=header" width="100%">
 
-<b>About me</b>
+<b>About Me</b>
 <p>My name is Hans Heidmann and I am a Software Engineer currently based in San Diego, California.</p>
 
 <p>
