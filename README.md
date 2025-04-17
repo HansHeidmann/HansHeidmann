@@ -10,7 +10,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=header" width="100%">
 
-<h2>Here is some of the tech I like to use:</h2>
+<b>Here is some of the tech I like to use:</b>
 
 <div align="left">
 	<h3>IDEs</h3>
