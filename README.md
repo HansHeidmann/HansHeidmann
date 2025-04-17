@@ -11,7 +11,7 @@
 </td>
 		
 <td>
-	<img height="600" src="https://github.com/HansHeidmann/HansHeidmann/blob/main/CU_Boulder_Engineering_Alumni.png?raw=true"/>
+	<img width="600" src="https://github.com/HansHeidmann/HansHeidmann/blob/main/CU_Boulder_Engineering_Alumni.png?raw=true"/>
 </td>
 </tr>
 </table>
