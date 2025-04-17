@@ -2,7 +2,7 @@
 
 
 <div style="display: flex; align-items: flex-start; gap: 20px; max-width: 1000px;">
-  <div style="flex: 1;">
+  <div style="flex: flex-row;">
     <b>About Me</b>
     <p>
       My name is Hans Heidmann, and I am a Software Engineer currently based in San Diego, California.
