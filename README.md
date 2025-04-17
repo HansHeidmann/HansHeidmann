@@ -1,12 +1,12 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=header" width="100%">
 
-
+<div>
 <b>About Me</b>
 <p>My name is Hans Heidmann and I am a Software Engineer currently based in San Diego, California.</p>
 <p>I strive to improve our world by delivering never-before-seen innovative solutions. My passion lies in designing and programming embedded systems for robotics, fitness technology, medical devices, IoT thingamabobs, etc. I'm also a big fan of getting lost in frontend and game development projects when I have the luxury of free time.</p>
 <p>Away from the screen, I enjoy traveling, surf/skate/snow, playing golf, pickleball, fishing, hiking, mountain biking, trail running, hiking, and playing guitar + producing all kinds of music (mostly electronic) in Ableton/ProTools.</p>
 <p>Big supporter of random entertaining inventions that provide a good laugh!</p>
-
+</div>
 <img height="200" style="width: auto; max-width: 100%;" src="https://github.com/HansHeidmann/HansHeidmann/blob/main/CU_Boulder_Engineering_Alumni.png?raw=true"/>
 
 
