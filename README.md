@@ -7,17 +7,6 @@
 <p>Big supporter of random entertaining inventions that provide a good laugh!</p>
 
 <hr>
-<div align="left">
-	<p>Here is some of the tech I find myself using:</p>
-</div>
-
-<div align="left">
-	<h3>IDEs</h3>
-	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/visual_studio_code.png" alt="Visual Studio Code" title="Visual Studio Code"/></code>
-	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/xcode.png" alt="Xcode" title="Xcode"/></code>
-	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/android_studio.png" alt="Android Studio" title="Android Studio"/></code>
-	<code><img width="50" src="https://deepbluembedded.com/wp-content/uploads/2020/06/54928769-ba986300-4f14-11e9-91d7-ecc6640d1989-300x297.png"/></code>
-</div>
 
 <div align="left">
 	<h3>Languages</h3>
@@ -88,6 +77,14 @@
 	<code><img width="50" src="https://icons.iconarchive.com/icons/chrisbanks2/cold-fusion-hd/128/cpu-ARM-icon.png"/></code>
 	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/arduino.png"/></code>
 	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/raspberri_pi.png"/></code>
+</div>
+
+<div align="left">
+	<h3>IDEs</h3>
+	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/visual_studio_code.png" alt="Visual Studio Code" title="Visual Studio Code"/></code>
+	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/xcode.png" alt="Xcode" title="Xcode"/></code>
+	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/android_studio.png" alt="Android Studio" title="Android Studio"/></code>
+	<code><img width="50" src="https://deepbluembedded.com/wp-content/uploads/2020/06/54928769-ba986300-4f14-11e9-91d7-ecc6640d1989-300x297.png"/></code>
 </div>
 
 <div align="left">
