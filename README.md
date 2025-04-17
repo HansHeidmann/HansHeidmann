@@ -6,8 +6,9 @@
 <p>Away from the screen, I enjoy traveling, surf/skate/snow, playing golf, pickleball, fishing, hiking, mountain biking, trail running, hiking, and playing guitar + producing all kinds of music (mostly electronic) in Ableton/ProTools.</p>
 <p>Big supporter of random entertaining inventions that provide a good laugh!</p>
 
-
-
+<div align="center">
+	<b>Here is some of the tech I find myself using:</b>
+</div>
 
 <div align="left">
 	<h3>IDEs</h3>
