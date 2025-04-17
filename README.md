@@ -3,18 +3,23 @@
 <b>About Me</b>
 <p>My name is Hans Heidmann and I am a Software Engineer currently based in San Diego, California.</p>
 
-<p>
-I strive to improve our world by delivering never-before-seen innovative solutions. 
-My passion lies in designing and programming embedded systems for robotics, fitness technology, medical devices, IoT thingamabobs, etc. 
-I'm also a big fan of getting lost in frontend and game development projects when I have the luxury of free time.
-</p>
+<table>
+	<tr>
+		<td>
+			<p>I strive to improve our world by delivering never-before-seen innovative solutions. My passion lies in designing and programming embedded systems for robotics, fitness technology, medical devices, IoT thingamabobs, etc. I'm also a big fan of getting lost in frontend and game development projects when I have the luxury of free time.</p>
+			<p>Away from the screen, I enjoy traveling, surf/skate/snow, playing golf, pickleball, fishing, hiking, mountain biking, trail running, hiking, and playing guitar + producing all kinds of music (mostly electronic) in Ableton/ProTools.</p>
+			<p>Big supporter of random entertaining inventions that provide a good laugh!</p>
+		</td>
+		<td>
+			<img width="170" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXY1ZGZ6ZXZoYno5enVuaXFmZ3NrbnFmM3g3aXhiYWs1b3B1cTlicCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/0EuzuldL6K3iJW8lFO/giphy.gif"/>
+		</td>
+	</tr>
+</table>
 
-<p>Away from the screen, I enjoy traveling, surf/skate/snow, playing golf, pickleball, fishing, hiking, mountain biking, trail running, hiking, and playing guitar + producing all kinds of music (mostly electronic) in Ableton/ProTools.</p>
-
-<p>Big supporter of random entertaining inventions that provide a good laugh!</p>
 
 
-<img width="170" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXY1ZGZ6ZXZoYno5enVuaXFmZ3NrbnFmM3g3aXhiYWs1b3B1cTlicCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/0EuzuldL6K3iJW8lFO/giphy.gif"/>
+
+
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
 
