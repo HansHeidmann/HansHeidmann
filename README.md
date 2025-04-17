@@ -8,11 +8,6 @@
 
 
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=header" width="100%">
-
-<div align="center">
-	<h2>Some of the tech I use:</h2>
-</div>
 
 <div align="left">
 	<h3>IDEs</h3>
