@@ -1,4 +1,4 @@
-
+<img src="https://raw.githubusercontent.com/HansHeidmann/HansHeidmann/refs/heads/main/github_header.jpg" width="100%">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=header" width="100%">
 
 <p><b>About Me</b></p>
