@@ -1,7 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=header" width="100%">
 
 
-<table>
+<table style="border-none">
 	<tr>
 		<td>
 			<b>About Me</b>
