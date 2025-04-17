@@ -10,7 +10,7 @@
 	Big supporter of random entertaining inventions that provide a good laugh!
 	</td>
 	<td>
-		<img width="800" src="https://github.com/HansHeidmann/HansHeidmann/blob/main/CU_Boulder_Engineering_Alumni.png?raw=true"/>
+		<img width="700" src="https://github.com/HansHeidmann/HansHeidmann/blob/main/CU_Boulder_Engineering_Alumni.png?raw=true"/>
 	</td>
 </tr>
 </table>
