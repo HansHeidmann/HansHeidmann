@@ -2,8 +2,8 @@
 
 
 <table style="border: none; padding: 0;">
-	<tr>
-		<td>
+	<tr style="border: none; padding: 0;">
+		<td style="border: none; padding: 0;">
 			<b>About Me</b>
 			<p>
 				My name is Hans Heidmann and I am a Software Engineer currently based in San Diego, California.
@@ -12,7 +12,7 @@
 			<p>Away from the screen, I enjoy traveling, surf/skate/snow, playing golf, pickleball, fishing, hiking, mountain biking, trail running, hiking, and playing guitar + producing all kinds of music (mostly electronic) in Ableton/ProTools.</p>
 			<p>Big supporter of random entertaining inventions that provide a good laugh!</p>
 		</td>
-		<td>
+		<td style="border: none; padding: 0;">
 			<img width="170" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXY1ZGZ6ZXZoYno5enVuaXFmZ3NrbnFmM3g3aXhiYWs1b3B1cTlicCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/0EuzuldL6K3iJW8lFO/giphy.gif"/>
 		</td>
 	</tr>
