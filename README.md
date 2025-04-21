@@ -6,6 +6,8 @@
 <p>Away from the screen, I enjoy traveling, surf/skate/snow, playing golf, pickleball, fishing, hiking, mountain biking, trail running, hiking, and playing guitar + producing all kinds of music (mostly electronic) in Ableton/ProTools.</p>
 <p>Big supporter of random entertaining inventions that provide a good laugh!</p>
 
+<img src="https://raw.githubusercontent.com/HansHeidmann/HansHeidmann/refs/heads/main/cu_alumni_banner.png" width="400px">
+
 <hr>
 
 <div align="left">
