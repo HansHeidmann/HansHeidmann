@@ -5,7 +5,7 @@
 <p>I strive to improve our world by delivering never-before-seen innovative solutions. My passion lies in designing and programming embedded systems for robotics, fitness technology, medical devices, IoT thingamabobs, etc. Also a big fan of getting lost in game development projects when I have the luxury of free time.</p>
 <p>Away from the screen, I enjoy traveling, surf/skate/snow, playing golf, pickleball, fishing, hiking, mountain biking, trail running, hiking, and playing guitar + producing all kinds of music (mostly electronic) in Ableton/ProTools.</p>
 
-<img src="https://raw.githubusercontent.com/HansHeidmann/HansHeidmann/refs/heads/main/cu_alumni_banner.png" width="400px">
+<img src="https://raw.githubusercontent.com/HansHeidmann/HansHeidmann/refs/heads/main/cu_alumni_banner.png" width="300px">
 
 <hr>
 
